@@ -1,2 +1,3 @@
 # Kazakhstan-Economy-Dashboard
-This repository is intended for analyzing Kazakhstan's key economic indicators and forecasting future trends.
+This project analyzes inflation, consumer spending, oil prices, and exchange rates in Kazakhstan.
+Week 1: Inflation vs Consumer Spending (2000–2024)
